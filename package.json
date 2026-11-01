@@ -1,0 +1,19 @@
+{
+  "name": "learn_backend",
+  "version": "1.0.0",
+  "description": "I am Learning Backend",
+  "keywords": [
+    "node",
+    "Atharva"
+  ],
+  "license": "ISC",
+  "author": "Atharva Deepak Jadhav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9"
+  }
+}
